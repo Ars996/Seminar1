@@ -8,8 +8,6 @@ Console.WriteLine("Введите два числа:");
 int numA = Convert.ToInt32(Console.ReadLine());
 int numB = Convert.ToInt32(Console.ReadLine());
 
-int max = numA;
-int min = numB;
 if (numA >numB) {
     Console.WriteLine(numA + "-Большее" );
     Console.WriteLine(numB + "-Меньшее" );
