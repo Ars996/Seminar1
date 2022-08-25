@@ -22,21 +22,34 @@
 //782 -> 8
 //918 -> 1
 
-Console.Write("Введите число: ");
-int numb = Convert.ToInt32(Console.ReadLine());
-string num = Convert.ToString(numb);
-int Get(int num) 
-{
-if (num.Length > 2){
-  Console.WriteLine("третья цифра -> " + num[2]);
-}
-else {
-  Console.WriteLine("-> третьей цифры нет");
-}
-}
-int result  = Get(numb);
-Console.Write(result);
 
+
+
+
+Console.Write("Введите число - ");
+int newNumber = Convert.ToInt32(Console.ReadLine());
+
+int findThirdDigit(int Number)
+{
+    while (Number / 100 > 9)
+    {
+        Number = Number / 10;
+    }
+    int thirdDigit = Number%10;
+    return thirdDigit;
+}
+int result = 0;
+
+if (newNumber / 100 > 0)
+{
+    result = findThirdDigit(newNumber);
+    Console.Write("Третья цифра - "+ result);
+  
+}
+else
+{
+    Console.WriteLine("третьей цифры нет");
+}
 
 
 
