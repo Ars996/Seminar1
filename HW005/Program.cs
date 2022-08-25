@@ -4,52 +4,49 @@
 //782 -> 8
 //918 -> 1
 
-//Console.Write("Введите трехзначное число: ");
-//int Wnumber = Convert.ToInt32(Console.ReadLine());
-//int GetTwoNum(int number)
-//{
-//int firstnum = number / 10;
-//int secondnum = firstnum % 10;
-//return secondnum;
-//}
-//int result  = GetTwoNum(Wnumber);
-//Console.Write(result);
+// Console.Write("Введите трехзначное число: ");
+// int Wnumber = Convert.ToInt32(Console.ReadLine());
+// int GetTwoNum(int number)
+// {
+// int firstnum = number / 10;
+// int secondnum = firstnum % 10;
+// return secondnum;
+// }
+// int result  = GetTwoNum(Wnumber);
+// Console.Write(result);
+
 
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-
 //456 -> 5
 //782 -> 8
 //918 -> 1
 
+// Console.Write("Введите число - ");
+// int newNumber = Convert.ToInt32(Console.ReadLine());
 
+// int findThirdDigit(int Number)
+// {
+//     while (Number / 100 > 9)
+//     {
+//         Number = Number / 10;
+//     }
+//     int thirdDigit = Number%10;
+//     return thirdDigit;
+// }
 
+// int result = 0;
 
-
-Console.Write("Введите число - ");
-int newNumber = Convert.ToInt32(Console.ReadLine());
-
-int findThirdDigit(int Number)
-{
-    while (Number / 100 > 9)
-    {
-        Number = Number / 10;
-    }
-    int thirdDigit = Number%10;
-    return thirdDigit;
-}
-int result = 0;
-
-if (newNumber / 100 > 0)
-{
-    result = findThirdDigit(newNumber);
-    Console.Write("Третья цифра - "+ result);
+// if (newNumber / 100 > 0)
+// {
+//     result = findThirdDigit(newNumber);
+//     Console.Write("Третья цифра - "+ result);
   
-}
-else
-{
-    Console.WriteLine("третьей цифры нет");
-}
+// }
+// else
+// {
+//     Console.WriteLine("третьей цифры нет");
+// }
 
 
 
@@ -59,19 +56,18 @@ else
 // 7 -> да
 // 1 -> нет
 
-//Console.WriteLine("Задача 15 ");
 
-//Console.Write("Введи цифру, обозначающую день недели: ");
-//int dayNumber = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введи цифру  ");
+int dayNumber = Convert.ToInt32(Console.ReadLine());
 
-//void CheckingTheDayOfTheWeek (int dayNumber) {
- // if (dayNum == 6 || dayNum == 7) {
-  //Console.WriteLine("Выходной");
- // }
- // else if (dayNum < 1 || dayNumber > 7) {
- //   Console.WriteLine("Число не относится к дню недели");
- // }
- // else Console.WriteLine("Не выходной");
-//}
+void CheckingTheDayOfTheWeek (int dayNum) {
+ if (dayNum == 6 || dayNum == 7) {
+  Console.WriteLine("Выходной");
+ }
+ else if (dayNum < 1 || dayNum > 7) {
+   Console.WriteLine("Число не относится к дню недели");
+ }
+ else Console.WriteLine("Не выходной");
+}
 
-//CheckingTheDayOfTheWeek(dayNumber);
+CheckingTheDayOfTheWeek(dayNumber);
