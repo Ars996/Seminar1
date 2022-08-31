@@ -1,0 +1,15 @@
+C:\Users\Арсений\Desktop\Exam1\Task25-29\bin\Debug\net6.0\Task25-29.exe
+C:\Users\Арсений\Desktop\Exam1\Task25-29\bin\Debug\net6.0\Task25-29.deps.json
+C:\Users\Арсений\Desktop\Exam1\Task25-29\bin\Debug\net6.0\Task25-29.runtimeconfig.json
+C:\Users\Арсений\Desktop\Exam1\Task25-29\bin\Debug\net6.0\Task25-29.dll
+C:\Users\Арсений\Desktop\Exam1\Task25-29\bin\Debug\net6.0\Task25-29.pdb
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.csproj.AssemblyReference.cache
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.AssemblyInfoInputs.cache
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.AssemblyInfo.cs
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.dll
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\refint\Task25-29.dll
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.pdb
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\Task25-29.genruntimeconfig.cache
+C:\Users\Арсений\Desktop\Exam1\Task25-29\obj\Debug\net6.0\ref\Task25-29.dll
