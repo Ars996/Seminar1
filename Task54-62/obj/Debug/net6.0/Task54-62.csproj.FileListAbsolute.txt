@@ -1,0 +1,15 @@
+C:\Users\Арсений\Desktop\Exam1\Task54-62\bin\Debug\net6.0\Task54-62.exe
+C:\Users\Арсений\Desktop\Exam1\Task54-62\bin\Debug\net6.0\Task54-62.deps.json
+C:\Users\Арсений\Desktop\Exam1\Task54-62\bin\Debug\net6.0\Task54-62.runtimeconfig.json
+C:\Users\Арсений\Desktop\Exam1\Task54-62\bin\Debug\net6.0\Task54-62.dll
+C:\Users\Арсений\Desktop\Exam1\Task54-62\bin\Debug\net6.0\Task54-62.pdb
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.csproj.AssemblyReference.cache
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.AssemblyInfoInputs.cache
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.AssemblyInfo.cs
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.dll
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\refint\Task54-62.dll
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.pdb
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\Task54-62.genruntimeconfig.cache
+C:\Users\Арсений\Desktop\Exam1\Task54-62\obj\Debug\net6.0\ref\Task54-62.dll
